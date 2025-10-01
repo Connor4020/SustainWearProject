@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php include 'header-footer.php'; ?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,21 +9,15 @@
     <script src="/shared/scripts.js"></script>
 </head>
 <body>
-    <header>
-        <h1>SustainWear Profile</h1>
-        <nav>
-            <ul>
-                <li><a href="dashboard.php">Home</a></li>
-                <li><a href="profile.php">Profile</a></li>
-            </ul>
-        </nav>
-    </header>
+    <?php render_header(); ?>
     <main>
         <section>
             <h2>Your Profile</h2>
             <p>
             <!-- Profile content goes here -->
         </section>
+
+        <?php render_footer(); ?>
     </main>
 </body>
 </html>
