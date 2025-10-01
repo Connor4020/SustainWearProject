@@ -8,7 +8,7 @@
 </head>
 <body>
     <main>
-            <h2>About Us</h2>
+            <h2>About Us - SustainWear group 21</h2>
             <p>Connor Barton</p>
             <p>Andy Liu</p>
             <p>Joe Foster</p>
