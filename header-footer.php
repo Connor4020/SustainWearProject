@@ -9,6 +9,7 @@ function render_header()
         <ul>
             <li><a href='dashboard.php'>Home</a></li>
             <li><a href='profile.php'>Profile</a></li>
+            <li><a href='about-us.php'>About Us</a></li>
         </ul>
     </nav>
     </header>";
