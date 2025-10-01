@@ -13,7 +13,6 @@
     <main>
         <section>
             <h2>Your Profile</h2>
-            <p>
             <!-- Profile content goes here -->
         </section>
 
