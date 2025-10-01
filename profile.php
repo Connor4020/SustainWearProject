@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SustainWear Dashboard</title>
+    <title>SustainWear Profile</title>
     <link rel="stylesheet" href="/shared/styles.css">
     <script src="/shared/scripts.js"></script>
 </head>
 <body>
     <header>
-        <h1>SustainWear Dashboard</h1>
+        <h1>SustainWear Profile</h1>
         <nav>
             <ul>
                 <li><a href="dashboard.php">Home</a></li>
@@ -19,9 +19,9 @@
     </header>
     <main>
         <section>
-            <h2>Welcome to your dashboard!</h2>
+            <h2>Your Profile</h2>
             <p>
-            <!-- Dashboard content goes here -->
+            <!-- Profile content goes here -->
         </section>
     </main>
 </body>
