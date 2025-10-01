@@ -7,11 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <?php render_header(); ?>
     <main>
             <h2>About Us - SustainWear group 21</h2>
             <p>Connor Barton</p>
             <p>Andy Liu</p>
             <p>Joe Foster</p>
-            <p>Josh. just josh</p>
-    <main>
+            <p>Josh Chambers</p>
+    </main>
+    <?php render_footer(); ?>
 </html>
