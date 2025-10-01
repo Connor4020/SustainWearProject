@@ -14,7 +14,6 @@
     <main>
         <section>
             <h2>Welcome to your dashboard!</h2>
-            <p>
             <!-- Dashboard content goes here -->
         </section>
     </main>
