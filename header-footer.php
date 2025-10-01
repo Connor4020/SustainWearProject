@@ -1,5 +1,9 @@
 <?php
 
+
+// Header and Footer rendering functions
+// we could do something like a role check here if we wanted to customize the header based on user type?
+// ie admin vs regular user
 function render_header()
 {
 
@@ -10,6 +14,7 @@ function render_header()
             <li><a href='dashboard.php'>Home</a></li>
             <li><a href='profile.php'>Profile</a></li>
             <li><a href='about-us.php'>About Us</a></li>
+            
         </ul>
     </nav>
     </header>";

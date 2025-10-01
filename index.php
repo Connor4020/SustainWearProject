@@ -12,7 +12,7 @@
     <main>
         <section>
             <h2>Welcome to SustainWear!</h2>
-            <p>
+            
             <!-- Main content goes here -->
         </section>
     </main>
