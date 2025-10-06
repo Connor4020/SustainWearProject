@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'header-footer.php'; ?>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SustainWear Profile</title>
-    <link rel="stylesheet" href="/shared/styles.css">
-    <script src="/shared/scripts.js"></script>
+    <link rel="stylesheet" href="styles/desktop.css" media="screen and (min-width: 769px)">
+    <link rel="stylesheet" href="styles/mobile.css" media="screen and (max-width: 768px)">
+    <script src="/scripts/script.js"></script>
 </head>
+
 <body>
     <?php render_header(); ?>
     <main>
@@ -19,4 +22,5 @@
         <?php render_footer(); ?>
     </main>
 </body>
+
 </html>
