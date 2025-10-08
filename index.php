@@ -18,12 +18,11 @@
     <?php renderMobileHeader(); ?>
 
     <main>
-        <section>
+        <section id="title">
             <h1>Sustain Wear</h1>
 
             <img src="/media/images/Laundry Stack.jpg" alt="An Image of Fresh Clothes Stacked Upon Each Other">
         </section>
-
 
 
         <section id="mainIntroduction">
@@ -35,6 +34,15 @@
             <div class="infoBox">
                 <h3>Why?</h3>
                 <p>Pollution Has Become an Even More Prevalent Problem in the Modern Day. It’s up to People Like us to Make a Change.</p>
+            </div>
+        </section>
+
+
+        <section id="variableStatistic">
+            <img src="/media/images/Pollution Landscape.jpg" alt="An Image of a foggy woodland with a large chute of polluted smoke in the background.">
+            <div id="infoBox">
+                <h3>2025</h3>
+                <p>This Year Alone we Have Reduced Over 750 Tonnes of CO2 Emissions That Would Have been Caused by Unwanted Clothing!</p>
             </div>
         </section>
 
